@@ -9,11 +9,8 @@
 
 ### Technologies: 
 
-- Front end
-  [![My Skills](https://skillicons.dev/icons?i=html5,css,sass,bootstrap,js,react)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html5,css,sass,bootstrap,tailwind,js,react,nodejs,python,django,flask,java,firebase,mongodb,netlify,aws)](https://skillicons.dev)
 
-- Back end
-  [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 <!---
 cyberforge1/cyberforge1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
