@@ -7,10 +7,10 @@
 
 ## Technologies: 
 
-- Front end
-  [![My Skills](https://skillicons.dev/icons?i=html5,css,js)](https://skillicons.dev)
+- Front end  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-- Back end
+- Back end  
   [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 <!---
