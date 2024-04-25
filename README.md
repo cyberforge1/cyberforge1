@@ -1,16 +1,18 @@
-- 👋 Nice to meet you, I'm Oliver
+### Introduction: 
+
+- 👋 Hi, I'm Oliver. Nice to meet you!
 - 👀 I’m interested in software & web development
 - 🌱 I’m currently studying in the _nology Program
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me [obj809@gmail.com, [Github Link](https://github.com/cyberforge1), [Linkedin Link](https://www.linkedin.com/feed/)]
 - ⚡ Fun fact: Spaghettification turns objects into long, thin shapes like noodles as they approach a black hole
 
-## Technologies: 
+### Technologies: 
 
-- Front end  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+- Front end
+  [![My Skills](https://skillicons.dev/icons?i=html5,css,sass,bootstrap,js,react)](https://skillicons.dev)
 
-- Back end  
+- Back end
   [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 <!---
