@@ -9,7 +9,7 @@
 
 ### Technologies: 
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nodejs,python,django,flask,java,firebase,mongodb,netlify,aws)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nodejs,python,django,flask,java,firebase,mongodb,aws)](https://skillicons.dev)
 
 
 <!---
