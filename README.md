@@ -5,7 +5,6 @@
 - 🌱 I’m currently studying in the _nology Program
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 Reach me at [obj809@gmail.com, Linkedin](https://www.linkedin.com/feed/)]
-- ⚡ Fun fact: Spaghettification turns objects into long, thin shapes like noodles as they approach a black hole
 
 ## Technologies: 
 
