@@ -4,7 +4,7 @@
 - 👀 I’m interested in software & web development
 - 🌱 I’m currently studying in the _nology Program
 - 💞️ I’m looking to collaborate on exciting projects
-- 📫 How to reach me [obj809@gmail.com, [Github](https://github.com/cyberforge1), [Linkedin](https://www.linkedin.com/feed/)]
+- 📫 Reach me at [obj809@gmail.com, Linkedin](https://www.linkedin.com/feed/)]
 - ⚡ Fun fact: Spaghettification turns objects into long, thin shapes like noodles as they approach a black hole
 
 ## Technologies: 
