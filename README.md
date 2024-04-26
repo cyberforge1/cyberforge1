@@ -4,7 +4,7 @@
 - 👀 I’m interested in software & web development
 - 🌱 I’m currently studying in the _nology Program
 - 💞️ I’m looking to collaborate on exciting projects
-- 📫 Reach me at [obj809@gmail.com, Linkedin](https://www.linkedin.com/feed/)]
+- 📫 Reach me @ [obj809@gmail.com, [Linkedin](https://www.linkedin.com/feed/)]
 
 ## Technologies: 
 
