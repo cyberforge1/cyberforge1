@@ -16,7 +16,7 @@
   
 - 📬 Email me at obj809@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/obj809/)  
 
-## Technologies: 
+### Technologies: 
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,python,django,flask,java,mongodb,firebase,mysql,aws)](https://skillicons.dev)
 
