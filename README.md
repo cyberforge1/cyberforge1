@@ -6,9 +6,9 @@
 
 - 🚀 I'm passionate about learning technology and finding creative solutions
   
-- 📚 Currently, I'm based in Sydney and studying in the _nology program
+- 📚 Currently, I'm based in Sydney and studying in the _nology Program
   
-- 🌏 Some recent interests include: Midjourney Image Generation, creating chatGPT assistants, and building projects with React  
+- 🌏 Some recent interests include: Midjourney image generation, chatGPT assistants, and building with React  
 
 ### Contact Me:
 
