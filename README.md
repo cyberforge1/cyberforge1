@@ -2,15 +2,15 @@
 
 ### Introduction:
 
-- 👋 Hello! I'm **Oliver**. Wonderful to have you here
-- 🚀 I'm passionate about learning technology and finding creative solutions
-- 📚 Currently, I'm based in Sydney and studying in the _nology program
-- 🌏 Some recent interests include: Midjourney Image Generation, creating chatGPT assistants, and building projects with React
+- 👋 Hello! I'm **Oliver**. Wonderful to have you here  
+- 🚀 I'm passionate about learning technology and finding creative solutions  
+- 📚 Currently, I'm based in Sydney and studying in the _nology program  
+- 🌏 Some recent interests include: Midjourney Image Generation, creating chatGPT assistants, and building projects with React  
 
 ### Contact Me:
 
-- 💬 Don't hesitate to reach out if you want to chat tech, collaborate on a project, or just share ideas!
-- 📬 Email me @ obj809@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/obj809/)
+- 💬 Don't hesitate to reach out if you want to chat tech, collaborate on a project, or just share ideas!  
+- 📬 Email me @ obj809@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/obj809/)  
 
 ## Technologies: 
 
