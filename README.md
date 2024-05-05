@@ -20,15 +20,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Welcome to My GitHub! 👋
+# Welcome to My GitHub! 💫
 
 ### Introduction:
-- 💫 Hello! I'm **Oliver**. It's wonderful to have you here
+
+- 👋 Hello! I'm **Oliver**. It's wonderful to have you here
 - 🚀 I'm passionate about learning technology, building projects and finding creative solutions
 - 📚 Currently, I am based in Sydney and studying in the _nology program
 - 🌏 I'm grateful and excited to have the opportunity to interact with recent developments in this field
 - 🌱 Some recent interests include: Midjourney Image Generation, creating chatGPT assistants, and building projects with React
-
 - 💬 Don't hesitate to reach out if you want to chat tech, collaborate on a project, or just share ideas!
 
 ### Contact Details:
