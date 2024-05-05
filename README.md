@@ -8,7 +8,7 @@
   
 - 📚 Currently, I'm based in Sydney and studying in the _nology Program
   
-- 🌏 Some recent interests include: Midjourney Image Generation, ChatGPT Assistants, and building with React  
+- 🌏 Some recent interests include: Midjourney Image Generation, ChatGPT Assistants, and building projects with React  
 
 ### Contact Me:
 
