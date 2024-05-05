@@ -9,10 +9,7 @@
 - 🌱 Some recent interests include: Midjourney Image Generation, creating chatGPT assistants, and building projects with React
 
 - 💬 Don't hesitate to reach out if you want to chat tech, collaborate on a project, or just share ideas!
-
-### Contact Details:
-- 📬 Email me @ obj809@gmail.com
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/obj809/)
+- 📬 Email me @ obj809@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/obj809/)
 
 ## Technologies: 
 
