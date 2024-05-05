@@ -38,5 +38,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Technologies: 
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nodejs,python,django,flask,java,firebase,mongodb,aws)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,python,django,flask,java,spring,mysql,firebase,aws)](https://skillicons.dev)
 
