@@ -2,9 +2,9 @@
 
 ### Introduction:
 
-- 👋 Hello! I'm **Oliver**. It's wonderful to have you here
-- 🚀 I'm passionate about learning technology, building projects and finding creative solutions
-- 📚 Currently, I am based in Sydney and studying in the _nology program
+- 👋 Hello! I'm **Oliver**. Wonderful to have you here
+- 🚀 I'm passionate about learning technology and finding creative solutions
+- 📚 Currently based in Sydney and studying in the _nology program
 - 🌏 I'm grateful and excited to have the opportunity to interact with recent developments in this field
 - 🌱 Some recent interests include: Midjourney Image Generation, creating chatGPT assistants, and building projects with React
 
