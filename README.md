@@ -5,11 +5,11 @@
 - 👋 Hello! I'm **Oliver**. Wonderful to have you here
 - 🚀 I'm passionate about learning technology and finding creative solutions
 - 📚 Currently, I'm based in Sydney and studying in the _nology Program
-- 🌏 Some recent interests include: Midjourney Image Generation, ChatGPT Assistants, and building projects with React  
+- 🌏 Some recent interests include: Midjourney Image Generation, ChatGPT Assistants, and building projects with React
+- 💬 Don't hesitate to reach out if you want to chat tech, collaborate on a project, or just share ideas!
 
 ### Contact Me:
 
-- 💬 Don't hesitate to reach out if you want to chat tech, collaborate on a project, or just share ideas!
 - 📬 Email me at obj809@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/obj809/)
 - ✨ Browse my [portfolio](https://cyberforge1.github.io/portfolio-project) for a showcase of my recent projects
 
