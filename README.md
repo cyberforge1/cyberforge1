@@ -11,7 +11,7 @@
 
 - 💬 Don't hesitate to reach out if you want to chat tech, collaborate on a project, or just share ideas!
 - 📬 Email me at obj809@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/obj809/)
-- 🔍 Check out my recent projects & portfolio [here](https://cyberforge1.github.io/portfolio-project)
+- 🔍 Check out my [portfolio](https://cyberforge1.github.io/portfolio-project) for recent projects & skills
 
 
 ### Technologies: 
