@@ -5,7 +5,7 @@
 - 👋 Hello! I'm **Oliver**. Wonderful to have you here
 - 🚀 I'm passionate about learning technology and finding creative solutions
 - 📚 Currently, I'm based in Sydney and studying in the _nology Program
-- 🧩 Recent interests include: Midjourney Image Generation, ChatGPT Assistants, and building projects with React
+- 🧩 Recent interests include: Midjourney Image Generation, ChatGPT Assistants, and learning python data tools 
 - 🌏 I also greatly enjoy filmmaking, exploring the world, and seeking new adventures
 
 ### Contact Me:
