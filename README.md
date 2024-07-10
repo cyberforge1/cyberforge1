@@ -13,9 +13,11 @@
 - ✨ Browse my [portfolio](https://cyberforge1.github.io/portfolio-project) for a showcase of my recent projects
 - 💬 Don't hesitate to reach out if you want to chat tech, collaborate on a project, or just share ideas!
 
-### Technologies
+### Languages & Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,express,nest,python,flask,django,anaconda,java,spring)](https://skillicons.dev)
+
+### Data, Databases & Cloud
 
 [![My Skills](https://skillicons.dev/icons?i=docker,mongodb,firebase,mysql,aws)](https://skillicons.dev)
 
