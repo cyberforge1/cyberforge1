@@ -15,7 +15,7 @@
 
 ### Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,express,nest,python,flask,django,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,express,nest,python,flask,django,java,spring)](https://skillicons.dev)
 
 ### Data & Cloud
 
