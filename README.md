@@ -19,6 +19,9 @@
 
 
 
+
+
+
   [![My Skills](https://skillicons.dev/icons?i=python,django,flask,anaconda,java,spring,bash,docker,mongodb,firebase,mysql,heroku,azure,aws)](https://skillicons.dev)
 
 <!---
