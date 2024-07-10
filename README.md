@@ -13,15 +13,10 @@
 - ✨ Browse my [portfolio](https://cyberforge1.github.io/portfolio-project) for a showcase of my recent projects
 - 💬 Don't hesitate to reach out if you want to chat tech, collaborate on a project, or just share ideas!
 
+### Technologies
 
-
-### Frontend & JavaScript
-
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,figma,js,ts,python,java,bash)](https://skillicons.dev)
-
-### Backend, Data & Databases
-
-  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nestjs,nextjs,django,flask,anaconda,spring,docker,mongodb,firebase,mysql,azure,aws)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,figma,js,ts,react,nodejs,express,nestjs,nextjs,jest)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,django,flask,anaconda,java,spring,bash,docker,mongodb,firebase,mysql,heroku,azure,aws)](https://skillicons.dev)
 
 <!---
 cyberforge1/cyberforge1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
