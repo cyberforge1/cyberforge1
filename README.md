@@ -17,11 +17,11 @@
 
 ### Frontend & JavaScript
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,figma,js,ts,react,nodejs,express,nestjs,nextjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,figma,js,ts,python,java,bash)](https://skillicons.dev)
 
 ### Backend, Data & Databases
 
-  [![My Skills](https://skillicons.dev/icons?i=python,django,flask,anaconda,java,spring,bash,docker,mongodb,firebase,mysql,azure,aws)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nestjs,nextjs,django,flask,anaconda,spring,docker,mongodb,firebase,mysql,azure,aws)](https://skillicons.dev)
 
 <!---
 cyberforge1/cyberforge1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
