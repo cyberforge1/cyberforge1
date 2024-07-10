@@ -15,14 +15,9 @@
 
 ### Technologies
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,figma,js,ts,react,nodejs,express,nestjs,nextjs,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,figma,js,ts,react,express,nest,next,python,flask,django,anaconda,java, spring)](https://skillicons.dev)
 
-
-
-
-
-
-  [![My Skills](https://skillicons.dev/icons?i=python,django,flask,anaconda,java,spring,bash,docker,mongodb,firebase,mysql,heroku,azure,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,mongodb,firestore,mysql,aws)](https://skillicons.dev)
 
 <!---
 cyberforge1/cyberforge1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
