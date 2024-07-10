@@ -17,6 +17,8 @@
 
 ### Technologies: 
 
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,figma,js,ts,react,nodejs,express,nestjs,nextjs,jest)](https://skillicons.dev)
+
   [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,python,django,flask,java,mongodb,firebase,mysql,aws)](https://skillicons.dev)
 
 <!---
