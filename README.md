@@ -5,8 +5,7 @@
 - 👋 Hello! I'm **Oliver**. Wonderful to have you here
 - 🚀 I'm passionate about learning technology and finding creative solutions
 - 📚 Currently, I'm based in Sydney and partnered with the _nology Program
-- 🌩 Recently focused on building scalable cloud apps with Docker, Terraform, and AWS
-- 🧩 Additional interests include: Midjourney Image Generation, Social Media Data and ChatGPT Assistants
+- 🧩 Recently focused on building scalable cloud apps with Docker, Terraform, and AWS
 - 🌏 I also greatly enjoy filmmaking, exploring the world, and seeking new adventures
 
 ### Contact Me:
@@ -28,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <!---
 - 🌱 Some recent interests include: Midjourney Image Generation, creating chatGPT assistants, and building projects with React
+- 🧩 Additional interests include: Midjourney Image Generation, Social Media Data and ChatGPT Assistants
 --->
 
 
