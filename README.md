@@ -4,7 +4,7 @@
 
 - 👋 Hello! I'm **Oliver**. Wonderful to have you here
 - 🚀 I'm passionate about learning technology and finding creative solutions
-- 📚 Based in Sydney and currently partnered with the _nology Program
+- 📚 Based in Sydney and partnered with the _nology Program
 - 🧩 Recently focused on building scalable cloud apps with Docker, Terraform, and AWS
 - 🌏 I also greatly enjoy filmmaking, exploring the world, and seeking new adventures
 
