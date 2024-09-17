@@ -6,7 +6,7 @@
 - 🚀 I'm passionate about learning technology and finding creative solutions
 - 📚 Currently, I'm based in Sydney and partnered with the _nology Program
 - 🌩 Recently focused on building scalable cloud apps with Docker, Terraform, and AWS
-- 🧩 Other interests include: Midjourney Image Generation, Social Media Data and ChatGPT Assistants
+- 🧩 Additional interests include: Midjourney Image Generation, Social Media Data and ChatGPT Assistants
 - 🌏 I also greatly enjoy filmmaking, exploring the world, and seeking new adventures
 
 ### Contact Me:
