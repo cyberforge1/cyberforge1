@@ -7,6 +7,7 @@
 - 📚 Based in Sydney and partnered with the _nology Program
 - 🧩 Recently focused on building scalable cloud apps with Docker, Terraform, and AWS
 - 🌏 I also greatly enjoy filmmaking, exploring the world, and seeking new adventures
+- 🌱 Actively exploring AI Agents, AWS Solutions Architecture, and ETL data pipelines
 
 ### Contact Me:
 - 📬 Email me at obj809@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/obj809/)
@@ -26,7 +27,6 @@ cyberforge1/cyberforge1 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <!---
-- 🌱 Some recent interests include: Midjourney Image Generation, creating chatGPT assistants, and building projects with React
 - 🧩 Additional interests include: Midjourney Image Generation, Social Media Data and ChatGPT Assistants
 --->
 
