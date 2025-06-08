@@ -6,8 +6,8 @@
 - 🚀 I'm passionate about learning technology and finding creative solutions
 - 📚 Based in Sydney and partnered with the _nology Program
 - 🧩 Recently focused on building scalable cloud apps with Docker, Terraform, and AWS
-- 🌱 Actively exploring AI Agents, AWS Solutions Architecture, and ETL data pipelines
 - 🌏 I also greatly enjoy filmmaking, exploring the world, and seeking new adventures
+- 🌱 Actively exploring AI Agents, AWS Solutions Architecture, and ETL data pipelines
 
 ### Contact Me:
 - 📬 Email me at obj809@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/obj809/)
