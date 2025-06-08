@@ -5,7 +5,7 @@
 - 👋 Hello! I'm **Oliver**. Wonderful to have you here
 - 🚀 I'm passionate about learning technology and finding creative solutions
 - 📚 Based in Sydney and partnered with the _nology Program
-- 🧩 Recently focused on postgraduate studies and earning AWS certifications
+- 🧩 Currently focusing on postgraduate studies and earning AWS certifications
 - 🌏 I also greatly enjoy filmmaking, exploring the world, and seeking new adventures
 - 🌱 Actively exploring AI Agents, AWS Solutions Architecture, and ETL data pipelines
 
