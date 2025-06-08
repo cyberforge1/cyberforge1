@@ -28,6 +28,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <!---
 - 🧩 Additional interests include: Midjourney Image Generation, Social Media Data and ChatGPT Assistants
+- 📚 Based in Sydney and partnered with the _nology Program
+- 🧩 Currently focusing on postgraduate studies and earning AWS certifications
+
 --->
 
 
