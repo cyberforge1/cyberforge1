@@ -19,7 +19,7 @@
 
 ### Data & Cloud:
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,terraform,mongodb,firebase,postgres,mysql,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,terraform,docker,mongodb,firebase,postgres,mysql,aws)](https://skillicons.dev)
 
 <!---
 cyberforge1/cyberforge1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
