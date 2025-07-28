@@ -4,8 +4,8 @@
 
 - 👋 Hello! I'm **Oliver**. Wonderful to have you here
 - 🚀 I'm passionate about learning technology and finding creative solutions
-- 🌱 Exploring AI Agents, AWS Solutions Architecture, and ETL data pipelines
-- 🧩 Currently focusing on postgraduate studies and earning AWS certifications
+- 📚 Currently focusing on postgraduate studies and earning AWS certifications
+- 🧩 Exploring AI Agents, AWS Solutions Architecture, and ETL data pipelines
 - 🌏 I also greatly enjoy filmmaking, exploring the world, and seeking new adventures
 
 ### Contact Me:
